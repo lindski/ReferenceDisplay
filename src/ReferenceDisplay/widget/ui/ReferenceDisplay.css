@@ -1,0 +1,21 @@
+.rdContainer ul
+{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+.rdContainer ul li 
+{ 
+    float: left;
+    padding: 2px;
+}
+
+.rdContainer ul li span
+{
+    text-decoration: none;
+    padding: .2em 1em;
+    color: #0c365b;
+    background-color: #41c3dc;
+}
